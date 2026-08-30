@@ -89,7 +89,7 @@ The project uses config.json to store file paths.
     'log_file': 'logs/etl_pipeline.log'
 }
 ```
-This keepsfile paths separate from the python code
+This keeps file paths separate from the python code
 
 ## Logging
 
@@ -120,10 +120,10 @@ To run tests:
 Expected result 3 passed
 
 ## Installtion
-1- create Virtual enviromemnt
+1- create Virtual environmemnt
 'python -m venv .venv'
 
-2- Activate the virtual enviroment
+2- Activate the virtual environment
 '.venv/Scripts/Activate'
 
 3- Install dependencies
@@ -155,6 +155,20 @@ Gross Sales
 'Gross_Sales = Quantity_Sold * Unit_Price'
 Discount Amount
 'Discount_Amount = Gross_Sales * Discount'
+
+## Scheduling
+
+The ETL Pipeline is scheduled to run automatically one per day using widows Task scheduler.
+The scheduled task uses the python interpreter from the project's virtual environment
+
+### Task Configuration
+
+Task Name : Retail ETL Pipeline
+Trigger : Daily
+Action : Start Program
+Python Interpreter : '.venv\Scripts\python.exe'
+Script : 'src\pipeline.py'
+Working Directory : The project  directory 'C:\Users\zain\Desktop\Retail_Data_Engineering\week1>' 
 
 ## Project Goal 
 
