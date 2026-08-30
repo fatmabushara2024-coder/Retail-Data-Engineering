@@ -122,5 +122,4 @@ class CsvETLPipeline:
 if __name__ == '__main__':
     pipeline = CsvETLPipeline(input_file, output_file)
     pipeline.run()          
-#pipeline = CsvETLPipeline('week1/data/raw/sales_data.csv')
-#pipeline.run()            
+          
