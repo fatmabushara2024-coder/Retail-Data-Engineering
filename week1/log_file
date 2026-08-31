@@ -1,0 +1,12 @@
+2026-08-30 21:00:03,741 - INFO - ETL Pipeline started
+2026-08-30 21:00:03,742 - INFO - Extract started
+2026-08-30 21:00:03,786 - INFO - extract complete successfully. Rows: 1000, columns: 10
+2026-08-30 21:00:03,790 - INFO - Transform started
+2026-08-30 21:00:03,810 - INFO - Missing value cheacked
+2026-08-30 21:00:03,840 - INFO - Duplicates removed: 0
+2026-08-30 21:00:03,864 - INFO - Data types converted successfully
+2026-08-30 21:00:03,865 - INFO - Derved columns created
+2026-08-30 21:00:03,865 - INFO - Transform complete sucecessfully
+2026-08-30 21:00:03,865 - INFO - load started
+2026-08-30 21:00:03,883 - INFO - Data loaded successfully to: C:\Users\zain\Desktop\Retail_Data_Engineering\week1\data\processed\sales_clean_data.csv
+2026-08-30 21:00:03,883 - INFO - ETL Pipeline completed successfully.
