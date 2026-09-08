@@ -1,0 +1,7 @@
+{
+    "input_file": "data/raw/online_retail.csv" ,
+    "output_file": "data/processed/retail" ,
+    "partition_column": "country", 
+    "app_name": "week3_online_retail_spark_ETL"
+
+}

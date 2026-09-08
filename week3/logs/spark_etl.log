@@ -1,0 +1,218 @@
+2026-09-06 13:13:42,374 - INFO - Closing down clientserver connection
+2026-09-06 13:19:48,824 - INFO - Closing down clientserver connection
+2026-09-06 13:29:22,087 - INFO - Starting Extract...
+2026-09-06 13:29:22,380 - INFO - Closing down clientserver connection
+2026-09-06 13:46:18,928 - INFO - Closing down clientserver connection
+2026-09-06 13:46:57,464 - INFO - Starting Extract...
+2026-09-06 13:46:57,726 - INFO - Closing down clientserver connection
+2026-09-06 13:57:00,536 - INFO - Starting Extract...
+2026-09-06 13:57:00,768 - INFO - Closing down clientserver connection
+2026-09-06 19:06:41,936 - INFO - Starting Extract...
+2026-09-06 19:06:55,277 - INFO - Extract completed successfully.
+2026-09-06 19:06:56,905 - INFO - Input partitions: 4
+2026-09-06 19:06:56,905 - INFO - Showing first 5 rows:
+2026-09-06 19:06:58,818 - INFO - Data schema:
+2026-09-06 19:07:04,490 - INFO - Input row count: 1067371
+2026-09-06 19:07:05,296 - INFO - spark session stopped
+2026-09-06 19:07:05,297 - INFO - Starting Extract...
+2026-09-06 19:07:06,823 - INFO - Closing down clientserver connection
+2026-09-06 19:18:14,891 - INFO - Starting Extract...
+2026-09-06 19:18:22,493 - INFO - Extract completed successfully.
+2026-09-06 19:18:22,593 - INFO - Input partitions: 4
+2026-09-06 19:18:22,593 - INFO - Showing first 5 rows:
+2026-09-06 19:18:23,017 - INFO - Data schema:
+2026-09-06 19:18:24,386 - INFO - Input row count: 1067371
+2026-09-06 19:18:24,853 - INFO - spark session stopped
+2026-09-06 19:18:24,877 - INFO - Closing down clientserver connection
+2026-09-06 19:58:00,496 - INFO - Starting Extract...
+2026-09-06 19:58:07,805 - INFO - Extract completed successfully.
+2026-09-06 19:58:07,910 - INFO - Input partitions: 4
+2026-09-06 19:58:07,911 - INFO - Showing first 5 rows:
+2026-09-06 19:58:08,325 - INFO - Data schema:
+2026-09-06 19:58:09,875 - INFO - Input row count: 1067371
+2026-09-06 19:58:10,058 - INFO - spark session stopped
+2026-09-06 19:58:10,089 - INFO - Closing down clientserver connection
+2026-09-06 20:09:00,051 - INFO - Starting Extract...
+2026-09-06 20:09:09,995 - INFO - Extract completed successfully.
+2026-09-06 20:09:10,102 - INFO - Input partitions: 4
+2026-09-06 20:09:10,102 - INFO - Showing first 5 rows:
+2026-09-06 20:09:10,629 - INFO - Data schema:
+2026-09-06 20:09:12,034 - INFO - Input row count: 1067371
+2026-09-06 20:09:12,642 - INFO - spark session stopped
+2026-09-06 20:09:12,703 - INFO - Closing down clientserver connection
+2026-09-06 20:23:18,717 - INFO - Starting Extract...
+2026-09-06 20:23:26,717 - INFO - Extract completed successfully.
+2026-09-06 20:23:26,823 - INFO - Input partitions: 4
+2026-09-06 20:23:26,823 - INFO - Showing first 5 rows:
+2026-09-06 20:23:27,282 - INFO - Data schema:
+2026-09-06 20:23:29,290 - INFO - Input row count: 1067371
+2026-09-06 20:23:29,808 - INFO - spark session stopped
+2026-09-06 20:23:29,828 - INFO - Closing down clientserver connection
+2026-09-06 20:29:07,731 - INFO - Starting Extract...
+2026-09-06 20:29:15,305 - INFO - Extract completed successfully.
+2026-09-06 20:29:15,399 - INFO - Input partitions: 4
+2026-09-06 20:29:15,400 - INFO - Showing first 5 rows:
+2026-09-06 20:29:15,879 - INFO - Data schema:
+2026-09-06 20:29:17,281 - INFO - Input row count: 1067371
+2026-09-06 20:29:17,555 - INFO - spark session stopped
+2026-09-06 20:29:17,574 - INFO - Closing down clientserver connection
+2026-09-06 20:33:13,920 - INFO - Starting Extract...
+2026-09-06 20:33:21,003 - INFO - Extract completed successfully.
+2026-09-06 20:33:21,104 - INFO - Input partitions: 4
+2026-09-06 20:33:21,104 - INFO - Showing first 5 rows:
+2026-09-06 20:33:21,701 - INFO - Data schema:
+2026-09-06 20:33:23,075 - INFO - Input row count: 1067371
+2026-09-06 20:33:23,407 - INFO - spark session stopped
+2026-09-06 20:33:23,460 - INFO - Closing down clientserver connection
+2026-09-06 21:08:44,466 - INFO - Starting Extract...
+2026-09-06 21:08:54,560 - INFO - Extract completed successfully.
+2026-09-06 21:08:54,701 - INFO - Input partitions: 4
+2026-09-06 21:08:54,701 - INFO - Showing first 5 rows:
+2026-09-06 21:08:55,517 - INFO - Data schema:
+2026-09-06 21:08:57,144 - INFO - Input row count: 1067371
+2026-09-06 21:08:57,160 - INFO - =========Reached Transform=========
+2026-09-06 21:08:57,160 - INFO - Starting Transform
+2026-09-06 21:08:57,397 - INFO - Transform Completed Successfully.
+2026-09-06 21:08:57,397 - INFO - Showing transformed data:
+2026-09-06 21:09:22,394 - INFO - spark session stopped
+2026-09-06 21:09:22,420 - INFO - Closing down clientserver connection
+2026-09-06 21:16:05,930 - INFO - Starting Extract...
+2026-09-06 21:16:13,623 - INFO - Extract completed successfully.
+2026-09-06 21:16:13,705 - INFO - Input partitions: 4
+2026-09-06 21:16:13,705 - INFO - Showing first 5 rows:
+2026-09-06 21:16:14,132 - INFO - Data schema:
+2026-09-06 21:16:15,618 - INFO - Input row count: 1067371
+2026-09-06 21:16:15,635 - INFO - =========Reached Transform=========
+2026-09-06 21:16:15,636 - INFO - Starting Transform
+2026-09-06 21:16:15,805 - INFO - Transform Completed Successfully.
+2026-09-06 21:16:15,805 - INFO - Showing transformed data:
+2026-09-06 21:16:23,799 - INFO - spark session stopped
+2026-09-06 21:16:23,857 - INFO - Closing down clientserver connection
+2026-09-06 21:17:51,123 - INFO - Starting Extract...
+2026-09-06 21:17:58,977 - INFO - Extract completed successfully.
+2026-09-06 21:17:59,082 - INFO - Input partitions: 4
+2026-09-06 21:17:59,082 - INFO - Showing first 5 rows:
+2026-09-06 21:17:59,537 - INFO - Data schema:
+2026-09-06 21:18:00,965 - INFO - Input row count: 1067371
+2026-09-06 21:18:00,987 - INFO - Starting Transform
+2026-09-06 21:18:01,170 - INFO - Transform Completed Successfully.
+2026-09-06 21:18:01,170 - INFO - Transformed row count: {df_clean.count()}
+2026-09-06 21:18:01,170 - INFO - Showing transformed data:
+2026-09-06 21:18:14,716 - INFO - spark session stopped
+2026-09-06 21:18:15,362 - INFO - Closing down clientserver connection
+2026-09-06 21:19:42,790 - INFO - Starting Extract...
+2026-09-06 21:19:50,270 - INFO - Extract completed successfully.
+2026-09-06 21:19:50,372 - INFO - Input partitions: 4
+2026-09-06 21:19:50,372 - INFO - Showing first 5 rows:
+2026-09-06 21:19:50,863 - INFO - Data schema:
+2026-09-06 21:19:52,338 - INFO - Input row count: 1067371
+2026-09-06 21:19:52,426 - INFO - Starting Transform
+2026-09-06 21:19:52,652 - INFO - Transform Completed Successfully.
+2026-09-06 21:19:52,700 - INFO - Transformed row count: {df_clean.count()}
+2026-09-06 21:19:52,707 - INFO - Showing transformed data:
+2026-09-06 21:20:00,802 - INFO - spark session stopped
+2026-09-06 21:20:00,978 - INFO - Closing down clientserver connection
+2026-09-06 21:22:45,044 - INFO - Starting Extract...
+2026-09-06 21:22:52,393 - INFO - Extract completed successfully.
+2026-09-06 21:22:52,487 - INFO - Input partitions: 4
+2026-09-06 21:22:52,487 - INFO - Showing first 5 rows:
+2026-09-06 21:22:52,989 - INFO - Data schema:
+2026-09-06 21:22:54,456 - INFO - Input row count: 1067371
+2026-09-06 21:22:54,464 - INFO - Starting Transform
+2026-09-06 21:22:54,650 - INFO - Transform Completed Successfully.
+2026-09-06 21:23:11,513 - INFO - Transformed row count: 1007914
+2026-09-06 21:23:11,522 - INFO - Showing transformed data:
+2026-09-06 21:23:28,163 - INFO - spark session stopped
+2026-09-06 21:23:28,187 - INFO - Closing down clientserver connection
+2026-09-06 22:03:27,016 - INFO - Starting Extract...
+2026-09-06 22:03:36,283 - INFO - Extract completed successfully.
+2026-09-06 22:03:36,366 - INFO - Input partitions: 4
+2026-09-06 22:03:36,366 - INFO - Showing first 5 rows:
+2026-09-06 22:03:36,803 - INFO - Data schema:
+2026-09-06 22:03:38,129 - INFO - Input row count: 1067371
+2026-09-06 22:03:38,131 - INFO - Starting Transform
+2026-09-06 22:03:38,282 - INFO - Transform Completed Successfully.
+2026-09-06 22:03:48,039 - INFO - Transformed row count: 1007914
+2026-09-06 22:03:48,052 - INFO - Showing transformed data:
+2026-09-06 22:04:13,111 - INFO - spark session stopped
+2026-09-06 22:04:13,435 - INFO - Closing down clientserver connection
+2026-09-06 22:05:20,210 - INFO - Starting Extract...
+2026-09-06 22:05:26,989 - INFO - Extract completed successfully.
+2026-09-06 22:05:27,107 - INFO - Input partitions: 4
+2026-09-06 22:05:27,108 - INFO - Showing first 5 rows:
+2026-09-06 22:05:27,563 - INFO - Data schema:
+2026-09-06 22:05:28,973 - INFO - Input row count: 1067371
+2026-09-06 22:05:28,988 - INFO - Starting Transform
+2026-09-06 22:05:29,394 - INFO - Transform Completed Successfully.
+2026-09-06 22:05:36,667 - INFO - Transformed row count: 1007914
+2026-09-06 22:05:36,682 - INFO - Showing transformed data:
+2026-09-06 22:05:46,453 - INFO - start loading
+2026-09-06 22:06:14,254 - INFO - spark session stopped
+2026-09-06 22:06:14,464 - INFO - Closing down clientserver connection
+2026-09-06 22:10:16,858 - INFO - Starting Extract...
+2026-09-06 22:10:24,633 - INFO - Extract completed successfully.
+2026-09-06 22:10:24,731 - INFO - Input partitions: 4
+2026-09-06 22:10:24,731 - INFO - Showing first 5 rows:
+2026-09-06 22:10:25,188 - INFO - Data schema:
+2026-09-06 22:10:26,688 - INFO - Input row count: 1067371
+2026-09-06 22:10:26,696 - INFO - Starting Transform
+2026-09-06 22:10:26,887 - INFO - Transform Completed Successfully.
+2026-09-06 22:10:34,693 - INFO - Transformed row count: 1007914
+2026-09-06 22:10:34,698 - INFO - Showing transformed data:
+2026-09-06 22:10:58,483 - INFO - start loading
+2026-09-06 22:11:03,618 - INFO - spark session stopped
+2026-09-06 22:11:03,688 - INFO - Closing down clientserver connection
+2026-09-06 22:20:57,443 - INFO - Starting Extract...
+2026-09-06 22:21:05,114 - INFO - Extract completed successfully.
+2026-09-06 22:21:05,220 - INFO - Input partitions: 4
+2026-09-06 22:21:05,221 - INFO - Showing first 5 rows:
+2026-09-06 22:21:05,764 - INFO - Data schema:
+2026-09-06 22:21:07,196 - INFO - Input row count: 1067371
+2026-09-06 22:21:07,200 - INFO - Starting Transform
+2026-09-06 22:21:07,388 - INFO - Transform Completed Successfully.
+2026-09-06 22:21:17,330 - INFO - Transformed row count: 1007914
+2026-09-06 22:21:17,341 - INFO - Showing transformed data:
+2026-09-06 22:21:32,254 - INFO - start loading
+2026-09-06 22:21:44,912 - INFO - spark session stopped
+2026-09-06 22:21:45,932 - INFO - Closing down clientserver connection
+2026-09-06 22:34:03,625 - INFO - Starting Extract...
+2026-09-06 22:34:11,734 - INFO - Extract completed successfully.
+2026-09-06 22:34:11,935 - INFO - Input partitions: 4
+2026-09-06 22:34:11,956 - INFO - Showing first 5 rows:
+2026-09-06 22:34:12,489 - INFO - Data schema:
+2026-09-06 22:34:14,088 - INFO - Input row count: 1067371
+2026-09-06 22:34:14,098 - INFO - Starting Transform
+2026-09-06 22:34:14,287 - INFO - Transform Completed Successfully.
+2026-09-06 22:34:25,293 - INFO - Transformed row count: 1007914
+2026-09-06 22:34:25,295 - INFO - Showing transformed data:
+2026-09-06 22:34:34,279 - INFO - start loading
+2026-09-06 22:34:45,881 - INFO - spark session stopped
+2026-09-06 22:34:47,529 - INFO - Closing down clientserver connection
+2026-09-07 21:06:35,245 - INFO - Starting Extract...
+2026-09-07 21:06:46,908 - INFO - Extract completed successfully.
+2026-09-07 21:06:47,006 - INFO - Input partitions: 4
+2026-09-07 21:06:47,007 - INFO - Showing first 5 rows:
+2026-09-07 21:06:47,624 - INFO - Data schema:
+2026-09-07 21:06:49,594 - INFO - Input row count: 1067371
+2026-09-07 21:06:49,595 - INFO - Starting Transform
+2026-09-07 21:06:49,848 - INFO - Transform Completed Successfully.
+2026-09-07 21:06:57,026 - INFO - Transformed row count: 1007914
+2026-09-07 21:06:57,034 - INFO - Showing transformed data:
+2026-09-07 21:07:01,352 - INFO - start loading
+2026-09-07 21:07:50,871 - INFO - Load completed successfully.
+2026-09-07 21:07:51,249 - INFO - spark session stopped
+2026-09-07 21:07:51,252 - INFO - Closing down clientserver connection
+2026-09-08 22:07:21,594 - INFO - Starting Extract...
+2026-09-08 22:07:37,743 - INFO - Extract completed successfully.
+2026-09-08 22:07:38,273 - INFO - Input partitions: 4
+2026-09-08 22:07:38,274 - INFO - Showing first 5 rows:
+2026-09-08 22:07:40,803 - INFO - Data schema:
+2026-09-08 22:07:46,173 - INFO - Input row count: 1067371
+2026-09-08 22:07:46,176 - INFO - Starting Transform
+2026-09-08 22:07:46,670 - INFO - Transform Completed Successfully.
+2026-09-08 22:08:07,271 - INFO - Transformed row count: 1007914
+2026-09-08 22:08:07,281 - INFO - Showing transformed data:
+2026-09-08 22:08:24,330 - INFO - start loading
+2026-09-08 22:10:51,985 - INFO - Load completed successfully.
+2026-09-08 22:10:52,306 - INFO - spark session stopped
+2026-09-08 22:10:52,313 - INFO - Closing down clientserver connection
